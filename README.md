@@ -1,2 +1,3 @@
-# peer-graded-assignment
-This repository is an assignment for the course The Unix Workbench on Coursera
+Guessing Game: How many files have you got in there?
+Sun Apr 26 12:05:26 CEST 2020
+27 guessinggame.sh
